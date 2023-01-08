@@ -1,4 +1,3 @@
-
 const scrapeIt = require('scrape-it');
 const { MongoClient } = require('mongodb');
 const mongoConnectionString = process.env.mongoConnectionString;
